@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;0,900;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-image: linear-gradient(to right,#000000e9,#000000e9,#262525da),url('https://i.pinimg.com/originals/b8/ee/74/b8ee7492635758c272ffffddfef69127.jpg');
+    background-size: cover;
+    opacity: 0.6;
+}
+a {
+    text-decoration: none;
+}
+header,footer {
+    background-image: linear-gradient(#222220e9,#d64040e9);
+}
+
+.brand-logo {
+    width: 280px;
+    height: 45px;
+}
+
+main {
+    margin: 50px 0 200px 0;
+}
+
+.section {
+    margin-block: 50px;
+}
+
+.carousel,
+.slider-container {
+    overflow: hidden;
+    scroll-behavior: smooth;
+    padding: 0.8rem 0;
+}
+.slider-container::-webkit-scrollbar {
+    display: none;
+  }
+
+.card {
+    transition: 0.5s all;
+    min-width: 150px;
+}
+
+.card:hover {
+    /* opacity: 0.7; */
+    background-image: linear-gradient(#d8a51ae9,#d2d81ae9);
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.card:hover .card-body {
+    z-index: 0;
+    border-radius: 0.3rem;
+    background-image: linear-gradient(#1f1f1f70, #1e1d1dd6);
+}
+
+.card-body {
+    position: absolute;
+    z-index: -1;
+    height:100%;
+    color: #fff;
+    background: linear-gradient(to bottom, rgba(37, 39, 41, 0), #252629 90%);
+    padding: 10px 5px 0 5px;
+    transition: 0.5s all;
+}
+
+.card-title {
+    font-size: 1rem;
+}
+
+small {
+    line-height: 0.5;
+    font-size: 0.66rem;
+}
+
+.prev-btn,
+.next-btn {
+    background-color: inherit;
+    border: 0;
+    opacity: 0;
+    position: absolute;
+    z-index: 3;
+    height: 100%;
+}
+
+.prev-btn img,
+.next-btn img {
+    width: 20px;
+    height: 30px;
+}
+
+.next-btn {
+    right: 0;
+}
+
+.prev-btn {
+    left: 0;
+}
+
+.prev-btn:hover,
+.next-btn:hover {
+    opacity: 1;
+    transition: all 0.4s;
+}
+
+@media screeen and (max-width:370px) {
+    .card {
+        min-width: 120px;
+    }
+
+    .brand-logo {
+        width: 100px;
+        height: 25px;
+    }
+}
