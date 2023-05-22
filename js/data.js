@@ -266,7 +266,7 @@ export const anitoons= [
 	},
 	{
 		name:'Ben 10',
-		image:'https://assets.cdn.moviepilot.de/files/7d1a91c44d86ab199b2dafa65e1a19ba2cb1547c32e219c2225a3e363fc9/limit/1024/2000/ben-10-banner.jpg'
+		image:'https://i.ebayimg.com/images/g/J8EAAOxyNwNSIvfn/s-l500.gif'
 	},
 	{
 		name:'Ben 10 Alien Force',
