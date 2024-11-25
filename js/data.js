@@ -34,7 +34,7 @@ export const anitoons= [
 	},
 	{
 		name:'Tom and Jerry: Robin Hood and His Merry Mouse',
-		image:'https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6571/6571158_so.jpg'
+		image:'https://imusic.b-cdn.net/images/item/original/497/5051892231497.jpg?tom-jerry-robin-hood-tj-lldvds-2021-tom-and-jerry-original-movie-robin-hood-and-his-merry-mouse-dvd&class=scaled&v=1645819818'
 	},
 	{
 		name:'Tom and Jerry The Movie',
@@ -146,7 +146,7 @@ export const anitoons= [
 	},
 	{
 		name:'Swat Kats',
-		image:'https://m.media-amazon.com/images/M/MV5BNTVlNWNjZDAtNjgzYy00YzZjLTg4MzctYmY2NWM3MzRjOGVkXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_FMjpg_UX1000_.jpg'
+		image:'https://m.media-amazon.com/images/M/MV5BODhkZGUzZjYtZjNhMi00ZTkxLWJkNzQtZTQ3MDUzY2I1OWI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg'
 	},
 	{
 		name:'The Popeye Show',
@@ -190,7 +190,7 @@ export const anitoons= [
 	},
 	{
 		name:'The Adventures of Tenali Raman',
-		image:'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0-39SuRHnlYjNk6ft5Sry1AzX1h0NHaWTldM98h_W361rh3ky'
+		image:'https://www.dvdplanetstore.pk/wp-content/uploads/2024/01/ukcxSkZ2JBhFmxZPyMvAJO0k3ZF-600x900.jpg'
 	},
 	{
 		name:'Jumanji The Animated Series',
@@ -318,15 +318,15 @@ export const anitoons= [
 	},
 	{
 		name:'Dragon Ball Z',
-		image:'https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/1844727/2649783/apiooiyrl__75101.1625765495.jpg?c=2'
+		image:'https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/35e4ac6339f5fdcc164160a5755790cd.jpg'
 	},
 	{
 		name:'Pokemon Indigo League',
-		image:'https://toonkits4all.com/wp-content/uploads/2020/09/Pokemon-Season-1-Indigo-League-Complete-Zipped-File-Hindi-Dubbed-HD-Download-Post-Image-ToonKits4All.Com_-723x1024.jpg'
+		image:'https://upload.wikimedia.org/wikipedia/en/2/27/Pokemonseason1DVDBoxSet.jpg'
 	},
 	{
 		name:'Pokemon Adventures in the Orange Islands',
-		image:'https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4920/4920500_so.jpg'
+		image:'https://i.ebayimg.com/images/g/9q8AAOSwmLlX-lQ1/s-l1200.jpg'
 	},
 	{
 		name:'Pokemon The Johto Journeys',
@@ -430,7 +430,7 @@ export const anitoons= [
 	},
 	{
 		name:'Death Note',
-		image:'https://cdn.shopify.com/s/files/1/0090/5258/6081/products/abystyle-abydco114-death-note-group-nr-1-poster-38x52cm_500x.jpg?v=1662991213'
+		image:'https://m.media-amazon.com/images/I/716ASj7z2GL._AC_UF1000,1000_QL80_.jpg'
 	},
 	{
 		name:'Inazuma Eleven',
